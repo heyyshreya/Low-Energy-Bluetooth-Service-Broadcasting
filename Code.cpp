@@ -20,9 +20,6 @@ float readHumidity() {
 }
 
 // Setup BLE Server
-
-cpp
-Copy code
 BLEServer* pServer = NULL;
 BLECharacteristic* pCharacteristicTemp = NULL;
 BLECharacteristic* pCharacteristicHum = NULL;
