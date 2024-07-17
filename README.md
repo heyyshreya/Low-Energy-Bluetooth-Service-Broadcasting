@@ -7,6 +7,7 @@ This project demonstrates how to broadcast temperature and humidity services ove
 
 ## Prerequisites
 - ESP32 Development Board
+- Arduino Uno
 - DHT22 Sensor
 - nRF Connect app
 
@@ -20,8 +21,9 @@ This project demonstrates how to broadcast temperature and humidity services ove
 - The services can be read and notified using the nRF Connect app.
 - Extra feature: Transfer WiFi credentials over Bluetooth and connect to WiFi.
 
-## Circuit Diagram
-[Circuit Diagram](.png)
-
+## Testing with nRF Connect
+Open the nRF Connect app.
+Scan for devices and connect to your ESP32.
+Verify that you can read and get notifications for the temperature and humidity characteristics.
 
 
