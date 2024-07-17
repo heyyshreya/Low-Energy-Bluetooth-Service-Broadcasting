@@ -21,7 +21,7 @@ This project demonstrates how to broadcast temperature and humidity services ove
 - Extra feature: Transfer WiFi credentials over Bluetooth and connect to WiFi.
 
 ## Circuit Diagram
-![Circuit Diagram](path/to/circuit-diagram.png)
+[Circuit Diagram](.png)
 
 
 
